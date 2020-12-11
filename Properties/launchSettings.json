@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeldridTest": {
+      "commandName": "Project",
+      "workingDirectory": "$(ProjectDir)"
+    }
+  }
+}
